@@ -1,0 +1,9 @@
+#class tools::wcsv::ntuple
+#title Gap5_TrackCounter5
+#separator 44
+#vector_separator 59
+#column int Gap5_TrackCounter5_eventId
+#column int Gap5_TrackCounter5_cell
+#column double Gap5_TrackCounter5_score
+2,0,257
+9,0,227
